@@ -1,4 +1,4 @@
-# Seattle Weather  | DATA 3320, Spring 2023
+# Seattle Weather | Data 3320, Spring 2023
 Uses data science methodology to investigate and determine whether it rains more in Seattle, WA than in St. Louis, MO.
 
 ## Data
