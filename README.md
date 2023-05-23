@@ -21,11 +21,10 @@ Used this [Data Preparation Notebook](https://github.com/lbomine/Seattle-Weather
 - Exported the [clean data set](https://github.com/lbomine/Seattle-Weather/blob/12bc68869b880534f0341b3a19e2a0e7f997fab2/clean_seattle_stl_weather.csv).
 
 ## Data Analysis
-Used this [Analyis Notebook]() to analyze the cleaned data set and produce all necessary results for the final conclusion. Additional questions were proposed to assist our understanding and interpretation of the data.
+Used this [Analyis Notebook](https://github.com/lbomine/Seattle-Weather/blob/65e9fef5ac96625d67d0f46c32413ba224628f1c/Seattle%20St.%20Louis%20Complete%20Analysis%20Leiana%20Omine.ipynb) to analyze the cleaned data set and produce all necessary results for the final conclusion. Additional questions were proposed to assist our understanding and interpretation of the data.
 <br> <br> Questions:
 1. Did the mean precipitation in Seattle and St. Louis change over the years? If so, how did it change and do they differ from eachother?
 2. How many days of rain does Seattle have in comparison to St. Louis? Which city has more days of rain?
-3. What is the max precipitation for each month in Seattle and St. Louis? Which city has more precipitation?
 
 <br> Through our data analysis, we find that St. Louis has more rain than Seattle. St. Louis has less rainy days but an even distribution of rain throughout the year. Seattle has a lower mean precipitation per year and overall a lower max precipitation in comparison to St. Louis. However, Seattle has a higher frequency of rainy days throughout the year. Thus, we conclude that Seattle rains more than St. Louis. A more in depth visualization of this conclusion can be viewed in [Communicating Results]().
 
