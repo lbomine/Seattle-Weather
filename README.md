@@ -5,7 +5,7 @@ Uses data science methodology to determine whether it rains more in Seattle, WA 
 To complete this project, [Google Colaboratory](https://colab.research.google.com/) is used as the main software. This is a web-based IDE for Python (programming language). Python libraries are also utilized to help clean and plot the data. [GitHub](https://github.com/) is used to store the files of this project and make it easily accessible for reference when working with the data.
 
 ## Data
-Precipitation measured daily in Seattle and St. Louis from January 1, 2017 to December 31, 2022. The data sets [`seattle_rain.csv`](https://github.com/lbomine/Seattle-Weather/blob/75fdb7a94f59254160ca0f527539d6acaa3f9049/seattle_rain.csv) and [`stl_rain.csv`](https://github.com/lbomine/Seattle-Weather/blob/75fdb7a94f59254160ca0f527539d6acaa3f9049/stl_rain.csv) were downloaded from the National Centers for Environmental Information NOAA Climate Data Online [search tool](https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND).
+Precipitation measured daily in Seattle and St. Louis from January 1, 2017 to December 31, 2022. The data sets [`seattle_rain.csv`](https://github.com/lbomine/Seattle-Weather/blob/main/seattle_rain.csv) and [`stl_rain.csv`](https://github.com/lbomine/Seattle-Weather/blob/main/stl_rain.csv) were downloaded from the National Centers for Environmental Information NOAA Climate Data Online [search tool](https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND).
 
 ## Data Preparation
 Used this [Data Preparation Notebook](https://github.com/lbomine/Seattle-Weather/blob/12bc68869b880534f0341b3a19e2a0e7f997fab2/Leiana%20Omine%20-%20DATA%203320%20Seattle%20St.%20Louis%20Data%20Preparation.ipynb) to import the data sets and prepare the data.
